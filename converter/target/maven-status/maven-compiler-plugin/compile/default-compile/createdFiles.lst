@@ -1,0 +1,6 @@
+com\app\converter\json\generic\JsonConverter.class
+com\app\converter\model\Car.class
+com\app\converter\model\enums\Color.class
+com\app\converter\model\Car$CarBuilder.class
+com\app\converter\exception\JsonConverterException.class
+com\app\converter\json\CarsJsonConverter.class
