@@ -1,7 +1,14 @@
 
-…
-java:S1157U"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¦ÌòÌûÿÿÿÿ8ªï¾¨Ž.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ã€¡ê®.
 T
 java:S2589Y"7Remove this expression which always evaluates to "true"(ºñûÙ8ªï¾¨Ž.
 s
 java:S1192"VDefine a constant instead of duplicating this literal "value is not a number" 3 times.(§Èà‚8ªï¾¨Ž.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ã€¡ê®.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ã€¡ê®.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(€–¡£ûÿÿÿÿ8ã€¡ê®.
+…
+java:S1157U"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¦ÌòÌûÿÿÿÿ8ªï¾¨Ž.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ã€¡ê®.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ã€¡ê®.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8ã€¡ê®.
